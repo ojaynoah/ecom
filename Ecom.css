@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+:root{
+    --color-white: #fff;
+    --color-black: #000;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:var(--color-white);
+   }
